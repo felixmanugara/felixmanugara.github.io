@@ -1,0 +1,99 @@
+
+body {
+    font-family: 'Montserrat',sans-serif;
+
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    color:#ffffff;
+    background-color:#2F4F4F;
+    height: 90px;
+}
+
+.header-logo {
+    font-family: 'monoton', cursive;
+    font-weight: bold;
+    font-size: 35px;
+    float: left;
+    letter-spacing: 1px;
+    padding: 20px 40px;
+}
+
+.header-list ul {
+    float: right;
+    padding-bottom: 50px;
+    padding-right: 20px;
+    
+}
+
+.header-list li {
+    font-weight: bold;
+    float: left;
+    padding: 20px;
+}
+
+.main {
+    color:#2F4F4F;
+    padding: 100px 90px 100px 90px;
+}
+
+.intro {
+    float: left;
+    width: 450px;  
+}
+.intro h3 {
+    letter-spacing: 5px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.intro span {
+    letter-spacing:2px;
+    color:#87CEFA;
+}
+
+.intro p {
+    color:#ffffff;
+    background-color: #87CEFA;
+    text-align: justify;
+    font-size: 16px;
+    word-spacing: 0.6px;
+    letter-spacing: 0.5px;
+    font-family: 'Montserrat',sans-serif;
+    padding: 25px 25px 25px 25px;
+    border: 3px dashed #2F4F4F;
+    
+}
+
+.side-note {
+    float:right;
+    width:450px;
+    
+}
+
+.side-note h3 {
+    letter-spacing: 5px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.side-note span {
+    letter-spacing:1px;
+    color:#87CEFA;
+}
+
+.side-note p {
+    color:#ffffff;
+    background-color: #87CEFA;
+    text-align: justify;
+    font-size: 16px;
+    word-spacing: 0.6px;
+    letter-spacing: 0.5px;
+    font-family: 'Montserrat',sans-serif;
+    padding: 25px 25px 25px 25px;
+    border: 3px dashed #2F4F4F;
+}
