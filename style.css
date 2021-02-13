@@ -44,8 +44,6 @@ li {
     text-decoration:none;
     transition: 0.7s;
 
-    
-
 }
 
 .header-list li a:hover {
@@ -76,7 +74,6 @@ li {
 }
 
 .intro {
-    border: 3px dashed #2F4F4F;
     padding: 20px 26px 25px 26px;
 }
 
@@ -102,7 +99,6 @@ li {
     letter-spacing: 0.2px;
 }
 .side-note {
-    border: 3px dashed #2F4F4F;
     padding: 20px 30px 25px 30px;
 }
 
