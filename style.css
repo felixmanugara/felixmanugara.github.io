@@ -63,14 +63,16 @@ li {
     background-color: #ffffff;
     float: left;
     width: 450px;
-    padding-left: 80px;
+    padding-left: 65px;
+    margin-bottom: 20px;
 }
 
 .child-container-2 {
     background-color: #ffffff;
     float: right;
     width: 450px;
-    padding-right: 85px;
+    padding-right: 70px;
+    margin-left: 65px;
 }
 
 .intro {
