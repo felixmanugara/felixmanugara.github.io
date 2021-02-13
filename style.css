@@ -9,9 +9,11 @@ li {
 }
 
 .header {
-    background-color:#2F4F4F;
+    background-color:#6495ED;
     height: 90px;
     min-height: 90px;
+    max-height: 100px;
+    width:100%;
 }
 
 .header-logo {
@@ -37,8 +39,21 @@ li {
     padding: 20px;
 }
 
+.header-list  li a {
+    color:inherit;
+    text-decoration:none;
+    transition: 0.7s;
+
+    
+
+}
+
+.header-list li a:hover {
+    color: #2F4F4F;;
+
+}
+
 .main-container {
-    border: 4px solid #2F4F4F;
     padding-top: 160px;
     padding-bottom: 500px;
     
