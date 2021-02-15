@@ -1,7 +1,11 @@
+* {
+    border: 1px solid red;
+}
 body {
     margin:0;
     background-color: #ffffff;
     font-family: 'Montserrat',sans-serif;
+
 
 }
 
@@ -53,4 +57,30 @@ body {
 
 .header-list ul li a:hover {
     color:#2f4f4f;
+}
+
+.main-container {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+
+.intro p {
+    overflow: hidden;
+    float: left;
+    text-align: justify;
+    word-spacing: 2px;
+    
+
+
+}
+
+.side-note p {
+    overflow: hidden;
+    float: right;
+    text-align: justify;
+    word-spacing: 2px;
+    
+
 }
