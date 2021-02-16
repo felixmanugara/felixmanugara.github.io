@@ -17,7 +17,7 @@ body {
     font-size: 25px;
     float: left;
     background-color:inherit;
-    color:#ffffff;
+    color: #ffffff;;
     font-style: inherit;
     padding-top: 20px;
     padding-left: 20px;
@@ -28,7 +28,6 @@ body {
     padding-right: 110px;
     float: right;
     
-
 }
 
 .header-list ul {
@@ -54,7 +53,7 @@ body {
 }
 
 .header-list ul li a:hover {
-    color:#2f4f4f;
+    color:#ffdead;
 }
 
 .main-container {
@@ -63,37 +62,52 @@ body {
 }
 
 .child-container-1 {
+    background-color: #ffdead;
     padding: 25px 50px 25px 50px;
-    border:1px solid black;
-    
+    margin-bottom: 100px;
+    border: 3px dashed #008B8B;
     
 }
 
 .child-container-2 {
+    background-color: #ffdead;
     padding: 25px 50px 25px 50px;
-    border:1px solid black;
+    margin-bottom: 100px;
+    border:3px dashed #008B8B;
 
 }
 
-.intro {
+.child-container-1 .intro h3{
+    color: #008B8B;
+    font-weight: bold;
+    font-family: 'monoton';
+    word-spacing: 1.5px;
 
 }
 
 .intro p {
-    overflow: hidden;
+    font-family:'montserrat';
     text-align: justify;
-    word-spacing: 2px;
+    word-spacing: 1.5px;
 
 }
 
-.side-note {
+.child-container-2 .side-note h3{
+    color: #008B8B;
+    font-weight: bold;
+    font-family: 'monoton';
+    word-spacing: 1px;
     
 }
 
 .side-note p {
-
+    font-family: 'montserrat';
     text-align: justify;
-    word-spacing: 2px;
-    
+    word-spacing: 1.5px;
 
+}
+
+.footer {
+    overflow: hidden;
+    background-color: #008B8B;
 }
