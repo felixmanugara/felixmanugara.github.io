@@ -148,7 +148,7 @@ body {
 }
 
 .fa {
-    font-size: 20px;
+    font-size: 24px;
     color: #ffffff;
     text-decoration: none;
     transform: 0.7s;
@@ -156,10 +156,14 @@ body {
 }
 
 .fa-instagram:hover {
-    color: #dc143c;
+    color: #cd486b;
 
 }
 
 .fa-twitter:hover {
     color: #00acee;
+}
+
+.fa-github:hover {
+    color:#333;
 }
