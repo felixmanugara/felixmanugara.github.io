@@ -90,6 +90,11 @@ body {
 
 }
 
+.intro span {
+    color:#2f4f4f;
+    word-spacing: 1.5px;
+}
+
 .intro p {
     font-family:'montserrat';
     text-align: justify;
@@ -101,8 +106,13 @@ body {
     color: #008B8B;
     font-weight: bold;
     font-family: 'monoton';
-    word-spacing: 1px;
+    word-spacing: 1.5px;
     
+}
+
+.side-note span {
+    color: #2f4f4f;
+    word-spacing: 1.5px;
 }
 
 .side-note p {
